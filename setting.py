@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 #Redis数据库地址
-REDIS_HOST = '47.107.146.46'
+REDIS_HOST = '127.0.0.1'
 
 #Redis端口
 REDIS_PORT = 6379
 
 #Redis密码，没有填None
-REDIS_PASSWORD = 'asd123'
+REDIS_PASSWORD = '123'
 
 REDIS_KEY = 'proxies'
 
